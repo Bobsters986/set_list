@@ -15,7 +15,6 @@ RSpec.describe 'the songs show page' do
 
     expect(page).to have_content(song.title)
     expect(page).to_not have_content(song_2.title)
-
   end
 
   it 'displays the name of the artist for the song' do
