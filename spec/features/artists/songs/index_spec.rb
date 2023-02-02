@@ -25,4 +25,10 @@ RSpec.describe 'Artists songs index' do
 
     expect(current_path).to eq("/songs/#{@purple.id}")
   end
+
+  it 'shows the average song length for the artist' do
+    visit "/artists/#{@prince.id}/songs"
+
+    expect(page).to have_content("Average Song Length for Prince: 755")
+  end
 end
