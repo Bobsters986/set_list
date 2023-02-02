@@ -244,6 +244,7 @@
           null,
           1,
           1,
+          1,
           null
         ]
       },
@@ -274,14 +275,11 @@
           null
         ]
       },
-      "/Users/bobsters/turing_work/2mod/lessons/set_list/app/controllers/songs_controller.rb": {
+      "/Users/bobsters/turing_work/2mod/lessons/set_list/app/controllers/artist_songs_controller.rb": {
         "lines": [
           1,
           1,
-          0,
-          null,
-          null,
-          1,
+          2,
           2,
           null,
           null
@@ -292,8 +290,21 @@
           1,
           null
         ]
+      },
+      "/Users/bobsters/turing_work/2mod/lessons/set_list/app/controllers/songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          0,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1675305904
+    "timestamp": 1675313932
   }
 }
