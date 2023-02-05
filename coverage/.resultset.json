@@ -260,13 +260,207 @@
           null
         ]
       },
+      "/Users/bobsters/turing_work/2mod/lessons/set_list/spec/features/artists/edit_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/bobsters/turing_work/2mod/lessons/set_list/spec/features/artists/new_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/bobsters/turing_work/2mod/lessons/set_list/spec/features/artists/songs/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          3,
+          3,
+          3,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/bobsters/turing_work/2mod/lessons/set_list/spec/features/songs/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/bobsters/turing_work/2mod/lessons/set_list/spec/features/songs/show_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/bobsters/turing_work/2mod/lessons/set_list/spec/models/artist_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
       "/Users/bobsters/turing_work/2mod/lessons/set_list/app/models/artist.rb": {
         "lines": [
           1,
           1,
           null,
           1,
-          0,
+          4,
           null,
           null
         ]
@@ -278,30 +472,46 @@
           null
         ]
       },
+      "/Users/bobsters/turing_work/2mod/lessons/set_list/spec/models/song_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          2,
+          null
+        ]
+      },
+      "/Users/bobsters/turing_work/2mod/lessons/set_list/app/models/song.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/bobsters/turing_work/2mod/lessons/set_list/app/controllers/artists_controller.rb": {
         "lines": [
           1,
+          1,
+          7,
+          null,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
           1,
           2,
           null,
           null,
           1,
-          null,
+          1,
+          1,
           null,
           1,
-          0,
-          0,
-          null,
-          null,
-          1,
-          0,
-          null,
-          null,
-          1,
-          0,
-          0,
-          null,
-          0,
           null,
           null,
           1,
@@ -312,7 +522,7 @@
           null,
           1,
           1,
-          0,
+          2,
           null,
           null
         ]
@@ -322,8 +532,31 @@
           1,
           null
         ]
+      },
+      "/Users/bobsters/turing_work/2mod/lessons/set_list/app/controllers/artist_songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          3,
+          3,
+          null,
+          null
+        ]
+      },
+      "/Users/bobsters/turing_work/2mod/lessons/set_list/app/controllers/songs_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          3,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1675558685
+    "timestamp": 1675559272
   }
 }
